@@ -1,0 +1,43 @@
+DEPLOYMENT GUIDE FOR AFRIHOST cPANEL
+=====================================
+
+STEP 1: Download Files
+- Download the mm-attorneys-static-website.tar.gz file
+- Extract it to get the static-website folder
+
+STEP 2: Upload to Afrihost
+- Login to your Afrihost cPanel
+- Open File Manager
+- Navigate to public_html directory
+- Upload all files from static-website folder:
+  * index.html (goes in root of public_html)
+  * css/ folder (with index-B-9JK0Yi.css inside)
+  * js/ folder (with index-DzJ7B3d6.js inside)  
+  * images/ folder (with MM logo inside)
+
+STEP 3: Set Permissions
+- Ensure index.html has 644 permissions
+- Ensure folders have 755 permissions
+- Ensure other files have 644 permissions
+
+STEP 4: Test
+- Visit your domain
+- Check all pages work:
+  * Home
+  * About Us  
+  * Team
+  * Practice Areas (Personal & Corporate sections)
+  * Gallery
+  * Contact
+
+FEATURES INCLUDED:
+- Responsive mobile-friendly design
+- Your actual MM Attorneys logo
+- Professional navy/gold color scheme  
+- Practice Areas split into Personal (13 services) and Corporate (14 services)
+- Professional gallery with office photos
+- Contact forms for both offices
+- SEO optimized
+- Fast loading static files
+
+The website is now 100% compatible with standard web hosting!
